@@ -5,9 +5,12 @@ export const Header = () => {
         <header>
             <div className="container">
                 <div className="grid navbar-grid">
-                    <div className="Logo">
-                        <NavLink to="/" >    
-                            <h1>World_Atlas</h1>
+                    <div className="logo-container">
+                        <NavLink to="/" className="logo-link">    
+                            <div className="logo">
+                                <span className="logo-icon">🌍</span>
+                                <h1 className="logo-text">World<span className="logo-highlight">Atlas</span></h1>
+                            </div>
                         </NavLink>
                     </div>
 
