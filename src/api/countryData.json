@@ -1,11 +1,11 @@
 [
-    {
-      "id": 1,
-      "countryName": "World",
-      "capital": "No Capital",
-      "population": "Null",
-      "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
-    },
+  {
+    "id": 1,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": "1400000000",
+    "interestingFact": "India is the world's largest democracy and home to the ancient Indus Valley Civilization."
+  },
     {
       "id": 2,
       "countryName": "Nepal",
@@ -54,5 +54,12 @@
       "capital": "Beijing",
       "population": 1444216107,
       "interestingFact": "The Great Wall of China is visible from space on rare occasions."
+    },
+    {
+      "id": 9,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": "125400000",
+      "interestingFact": "Japan consists of over 6,800 islands and is known for its bullet trains and technological innovations."
     }
   ]
