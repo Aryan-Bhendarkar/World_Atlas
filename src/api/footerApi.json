@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Location",
+      "details": "Bengaluru, Karnataka"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Phone",
+      "details": "8007006017"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail",
+      "details": "bhendarkararyan@gmail.com"
+    }
+  ]
